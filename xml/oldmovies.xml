@@ -1,0 +1,11 @@
+<xml>
+  <dir>
+    <title>tv shows</title>
+    <link>file://formats/main.xml</link>
+  </dir>
+
+  <dir>
+    <title>movies</title>
+    <link>file://shared lists/main.xml</link>
+  </dir>
+</xml>
